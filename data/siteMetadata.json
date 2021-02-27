@@ -1,17 +1,15 @@
 {
   "title": "Next.js Starter Blog",
-  "author": "Tails Azimuth",
-  "headerTitle": "TailwindBlog",
+  "author": "Will Johnson",
+  "headerTitle": "Will Johnson",
   "description": "A blog created with Next.js and Tailwind.css",
   "language": "en-us",
-  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
-  "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
-  "image": "/static/images/avatar.png",
+  "siteUrl": "https://williamjohnson.dev",
+  "siteRepo": "https://github.com/wjohnson85/williamjohnson.dev",
+  "image": "/static/images/will.jpg",
   "socialBanner": "/static/images/twitter-card.png",
-  "email": "address@yoursite.com",
-  "github": "https://github.com",
-  "twitter": "https://twitter.com/Twitter",
-  "facebook": "https://facebook.com",
-  "youtube": "https://youtube.com",
-  "linkedin": "https://www.linkedin.com"
+  "email": "hey@williamjohnson.dev",
+  "github": "https://github.com/wjohnson85",
+  "twitter": "https://twitter.com/willjohnsonio",
+  "linkedin": "https://www.linkedin.com/in/williamjohnson85/"
 }
